@@ -57,18 +57,18 @@ console.log("%= Modulus Assignment - " + numberModulus);
 //? Comparison Operators -
 console.log("Comparison Operators -");
 console.log("--------------------");
-console.log("Returns 'true' if x==y, (==	equal to)");
-console.log("Returns 'true' if x===y, (===	equal value and equal type)");
-console.log("Returns 'true' if x!=y, (!=	not equal)");
-console.log("Returns 'true' if x!==y, (!==	not equal value or not equal type)");
-console.log("Returns 'true' if x>y, (>	greater than)");
-console.log("Returns 'true' if x<y, (<	less than)");
-console.log("Returns 'true' if x>=y, (>=	greater than or equal to)");
-console.log("Returns 'true' if x<=y, (<=	less than or equal to)");
+console.log("Returns 'true' if x==y,   (==   equal to)");
+console.log("Returns 'true' if x===y,  (===  equal value and equal type)");
+console.log("Returns 'true' if x!=y,   (!=   not equal)");
+console.log("Returns 'true' if x!==y,  (!==  not equal value or not equal type)");
+console.log("Returns 'true' if x>y,    (>    greater than)");
+console.log("Returns 'true' if x<y,    (<    less than)");
+console.log("Returns 'true' if x>=y,   (>=   greater than or equal to)");
+console.log("Returns 'true' if x<=y,   (<=   less than or equal to)");
 
 //? Logical Operators
 console.log("Logical Operators -");
 console.log("--------------------");
-console.log("Returns 'true' if condition_1 and condition_2 both true, else returns 'false' (&& logical and)");
+console.log("Returns 'true' if condition_1 and condition_2 both true, else returns 'false'  (&& logical and)");
 console.log("Returns 'true' if condition_1 or condition_2 anyone true, else returns 'false' (|| logical or)");
-console.log("Returns 'true' if other condition is 'false' and vise-versa (!	logical not)");
+console.log("Returns 'true' if other condition is 'false' and vise-versa (! logical not)");

@@ -14,3 +14,4 @@ Have created [Learning_JavaScript](https://github.com/tineshwar-singh/Learning_J
 004. [004-JS_LetKeyword.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/004-JS_LetKeyword.js) 
 005. [005-JS_ConstKeyword.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/005-JS_ConstKeyword.js) 
 006. [006-JS_Operators.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/006-JS_Operators.js)  
+007. [007-JS_DataTypes.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/006-JS_DataTypes.js)  

@@ -1,0 +1,7 @@
+JavaScript Basics -
+--> JavaScript Introduction
+--> JavaScript Variables - var/let/const
+--> JavaScript Operators
+--> JavaScript DataTypes
+--> JavaScript Conversion
+--> JavaScript Operations

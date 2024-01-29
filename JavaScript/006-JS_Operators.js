@@ -1,6 +1,6 @@
-//? Operators in JavaScript 
-//* In JavaScript, an operator is a special symbol 
-//* Which is used to perform operations on operands (values and variables).
+// Operators in JavaScript 
+// In JavaScript, an operator is a special symbol 
+// Which is used to perform operations on operands (values and variables).
 
 console.log("--- 006-JS_Operators.js ---");
 
@@ -8,7 +8,7 @@ console.log("--- 006-JS_Operators.js ---");
 let firstNumber = 5;
 let secondNumber = 2;
 
-//? Arithmetic Operators -
+// Arithmetic Operators -
 
 console.log("Arithmetic Operators -");
 console.log("--------------------");
@@ -24,7 +24,7 @@ secondNumber--;
 console.log("--	Decrement (decrement by 1) - " + (secondNumber));
 
 
-//? Assignment Operators -
+// Assignment Operators -
 console.log("Assignment Operators -");
 console.log("--------------------");
 let numberAssignment = 10; 
@@ -54,7 +54,7 @@ let numberModulus = 10;
 numberModulus%=3; //! numberModulus = numberModulus % 3
 console.log("%= Modulus Assignment - " + numberModulus);
 
-//? Comparison Operators -
+// Comparison Operators -
 console.log("Comparison Operators -");
 console.log("--------------------");
 console.log("Returns 'true' if x==y,   (==   equal to)");
@@ -66,7 +66,7 @@ console.log("Returns 'true' if x<y,    (<    less than)");
 console.log("Returns 'true' if x>=y,   (>=   greater than or equal to)");
 console.log("Returns 'true' if x<=y,   (<=   less than or equal to)");
 
-//? Logical Operators
+// Logical Operators
 console.log("Logical Operators -");
 console.log("--------------------");
 console.log("Returns 'true' if condition_1 and condition_2 both true, else returns 'false'  (&& logical and)");

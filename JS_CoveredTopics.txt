@@ -7,3 +7,4 @@ JavaScript Basics -
 --> JavaScript Operations
 --> JavaScript Stack & Heap Memory
 --> JavaScript String
+--> JavaScript Array

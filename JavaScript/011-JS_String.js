@@ -69,9 +69,9 @@ console.log(`String.at(position) --> In "${newString}" at index of "${index}", i
 // Expected Result - 
 // String.charAt(position) --> In "Tinesh Singh" at index of "0", it returns the char "T"
 
-let anoherIndex = -1;
+let anotherIndex = -1;
 // it returns the last character of the string.
-console.log(`String.at(position) --> In "${newString}" at index of "${anoherIndex}", it returns the char "${newString.at(index)}"`)
+console.log(`String.at(position) --> In "${newString}" at index of "${anotherIndex}", it returns the char "${newString.at(index)}"`)
 // Expected Result - 
 // String.at(position) --> In "Tinesh Singh" at index of "-1", it returns the char "h"
 

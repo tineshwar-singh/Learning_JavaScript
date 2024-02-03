@@ -21,3 +21,4 @@ Have created [Learning_JavaScript](https://github.com/tineshwar-singh/Learning_J
 011. [011-JS_String.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/011-JS_String.js)
 012. [012-JS_Array.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/012-JS_Array.js)
 013. [013-JS_Number.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/013-JS_Number.js)
+014. [013-JS_Math.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/014-JS_Math.js)

@@ -8,3 +8,4 @@ JavaScript Basics -
 --> JavaScript Stack & Heap Memory
 --> JavaScript String
 --> JavaScript Array
+--> JavaScript Number

@@ -20,3 +20,4 @@ Have created [Learning_JavaScript](https://github.com/tineshwar-singh/Learning_J
 010. [010-JS_Stack&HeapMemory.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/010-JS_Stack&HeapMemory.js)
 011. [011-JS_String.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/011-JS_String.js)
 012. [012-JS_Array.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/012-JS_Array.js)
+013. [013-JS_Number.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/013-JS_Number.js)

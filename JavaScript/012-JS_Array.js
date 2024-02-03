@@ -11,10 +11,14 @@ const car = ["Echo", "Dzire"];
 // Creating an Array with the new keyword -->
 const array = new Array(1, 2, 3, 4, 5);
 console.log(array);
+// Expected Result -->
+// (5) [1, 2, 3, 4, 5]
 
 // Accessing the value of an Array -->
 let accessArrayElement = bike[0];
 console.log(`Value of bike[0] is "${accessArrayElement}"`);
+// Expected Result -->
+// Value of bike[0] is "Activa"
 
 console.log("----------------------------");
 // ----------------------------------------------------------------
@@ -23,6 +27,9 @@ console.log("----------------------------");
 // 1. Array.length
 // The length data property of an Array instance represents the number of elements in that array.
 console.log(`length of the bike array is "${bike.length}"`);
+
+// Expected Result -->
+// length of the bike array is "4"
 
 console.log("----------------------------");
 // ----------------------------------------------------------------
@@ -39,6 +46,11 @@ bike.push("GT650");
 
 console.log(`value of array after push() method`,bike);
 
+// Expected Result -->
+// value of array before push() method (4) ['Activa', 'Bullet', 'Shine', 'Delux']
+// value of array after push() method (5) ['Activa', 'Bullet', 'Shine', 'Delux', 'GT650']
+
+
 console.log("----------------------------");
 // ----------------------------------------------------------------
 
@@ -52,6 +64,11 @@ bike.pop();
 
 console.log(`value of array after pop() method`,bike);
 
+// Expected Result -->
+// value of array before pop() method (5) ['Activa', 'Bullet', 'Shine', 'Delux', 'GT650']
+// value of array after pop() method (4) ['Activa', 'Bullet', 'Shine', 'Delux']
+
+
 console.log("----------------------------");
 // ----------------------------------------------------------------
 
@@ -63,6 +80,10 @@ console.log(`value of array before unshift() method`,bike);
 bike.unshift("GT650");
 
 console.log(`value of array after unshift() method`,bike);
+
+// Expected Result -->
+// value of array before unshift() method (4) ['Activa', 'Bullet', 'Shine', 'Delux']
+// value of array after unshift() method (5) ['GT650', 'Activa', 'Bullet', 'Shine', 'Delux']
 
 console.log("----------------------------");
 // ----------------------------------------------------------------
@@ -76,6 +97,11 @@ console.log(`value of array before shift() method`,bike);
 bike.shift();
 
 console.log(`value of array after shift() method`,bike);
+
+// Expected Result -->
+// value of array before shift() method (5) ['GT650', 'Activa', 'Bullet', 'Shine', 'Delux']
+// value of array after shift() method (4) ['Activa', 'Bullet', 'Shine', 'Delux']
+
 
 console.log("----------------------------");
 // ----------------------------------------------------------------
@@ -92,6 +118,11 @@ bike.includes(checkIncludes);
 console.log(`value of "${checkIncludes}" checking with includes() method`,bike.includes(checkIncludes));
 
 console.log(`value of "${checkIncludes}" with index from "${checkIncludesFrom}" checking with includes() method`,bike.includes(checkIncludes, checkIncludesFrom));
+
+// Expected Result -->
+// value of "Activa" checking with includes() method true
+// value of "Activa" with index from "2" checking with includes() method false
+
 
 console.log("----------------------------");
 // ----------------------------------------------------------------
@@ -110,6 +141,11 @@ console.log(`value of "${checkIndexOf}" checking with indexOf() method`,bike.ind
 
 console.log(`value of "${checkIndexOf}" with index from "${checkIndexOfFrom}" checking witebike.indexOf() method`,bike.indexOf(checkIndexOf, checkIndexOfFrom));
 
+// Expected Result -->
+// value of "Activa" checking with indexOf() method 0
+// value of "Activa" with index from "2" checking witebike.indexOf() method -1
+
+
 console.log("----------------------------");
 // ----------------------------------------------------------------
 
@@ -127,6 +163,11 @@ console.log(`value of "${checkLastIndexOf}" checking with lastIndexOf() method`,
 
 console.log(`value of "${checkLastIndexOf}" with index from "${checkLastIndexOfFrom}" checking witebike.lastIndexOf() method`,bike.lastIndexOf(checkLastIndexOf, checkLastIndexOfFrom));
 
+// Expected Result -->
+// value of "Delux" checking with lastIndexOf() method 3
+// value of "Delux" with index from "0" checking witebike.lastIndexOf() method -1
+
+
 console.log("----------------------------");
 // ----------------------------------------------------------------
 
@@ -139,6 +180,10 @@ let join = bike.join(" & ");
 
 console.log(`value of array after join() method`,join);
 
+// Expected Result -->
+// value of array after join() method Activa & Bullet & Shine & Delux
+
+
 console.log("----------------------------");
 // ----------------------------------------------------------------
 
@@ -150,6 +195,10 @@ console.log("----------------------------");
 let toString = bike.toString();
 
 console.log(`value of array after toString() method`,toString);
+
+// Expected Result -->
+// value of array after toString() method Activa,Bullet,Shine,Delux
+
 
 console.log("----------------------------");
 // ----------------------------------------------------------------
@@ -170,6 +219,12 @@ let slice = bikes.slice(0,2);
 console.log(`slice() method -->`,slice);
 console.log(`value of array after slice() method`,bikes);
 
+// Expected Result -->
+// value of array before slice() method (4) ['Activa', 'Bullet', 'Shine', 'Delux']
+// slice() method --> (2) ['Activa', 'Bullet']
+// value of array after slice() method (4) ['Activa', 'Bullet', 'Shine', 'Delux']
+
+
 console.log("----------------------------");
 // ----------------------------------------------------------------
 
@@ -183,6 +238,12 @@ let splice = bikes.splice(0,2);
 
 console.log(`splice() method -->`,splice);
 console.log(`value of array after splice() method`,bikes);
+
+// Expected Result -->
+// value of array before splice() method (4) ['Activa', 'Bullet', 'Shine', 'Delux']
+// splice() method --> (2) ['Activa', 'Bullet']
+// value of array after splice() method (2) ['Shine', 'Delux']
+
 
 console.log("----------------------------");
 // ----------------------------------------------------------------
@@ -202,6 +263,12 @@ console.log(`value of bike array`, bike);
 console.log(`value of car array`, car);
 console.log(`value of array after concat() method`, concat);
 
+// Expected Result -->
+// value of bike array (4) ['Activa', 'Bullet', 'Shine', 'Delux']
+// value of car array (2) ['Echo', 'Dzire']
+// value of array after concat() method (6) ['Activa', 'Bullet', 'Shine', 'Delux', 'Echo', 'Dzire']
+
+
 console.log("----------------------------");
 // ----------------------------------------------------------------
 
@@ -219,6 +286,11 @@ const flat = vehical.flat(Infinity);
 console.log(`value of array after flat() method`, flat);
 console.log(`value of vehical array is`, vehical);
 
+// Expected Result -->
+// value of array after flat() method (7) ['Activa', 'Bullet', 'Shine', 'Delux', 'Echo', 'Dzire', 'GT650']
+// value of vehical array is (3) [Array(3), Array(2), 'GT650']
+
+
 console.log("----------------------------");
 // ----------------------------------------------------------------
 
@@ -228,6 +300,10 @@ console.log("----------------------------");
 
 const checkIsArray = [1,2,3];
 console.log(`Is checkIsArray array...??? using Array.isArray() method `, Array.isArray(checkIsArray));
+
+// Expected Result -->
+// Is checkIsArray array...??? using Array.isArray() method  true
+
 
 console.log("----------------------------");
 // ----------------------------------------------------------------
@@ -242,6 +318,9 @@ let from = Array.from("Tinesh");
 
 console.log(`value of from after Array.from() method `, from);
 
+// Expected Result -->
+// value of from after Array.from() method  (6) ['T', 'i', 'n', 'e', 's', 'h']
+
 console.log("----------------------------");
 // ----------------------------------------------------------------
 
@@ -252,3 +331,6 @@ console.log("----------------------------");
 let fruits = Array.of("Banana", "Orange", "Apple", "Mango", 1, 2, 3);
 
 console.log(`value of fruits after Array.of() method `, fruits);
+
+// Expected Result -->
+// value of fruits after Array.of() method  (7) ['Banana', 'Orange', 'Apple', 'Mango', 1, 2, 3]

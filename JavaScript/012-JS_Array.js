@@ -20,6 +20,12 @@ console.log(`Value of bike[0] is "${accessArrayElement}"`);
 // Expected Result -->
 // Value of bike[0] is "Activa"
 
+
+// Adding both the arrays using spread operator -->
+const vehicals = [...bike, ...car];
+console.log(vehicals);
+
+
 console.log("----------------------------");
 // ----------------------------------------------------------------
 

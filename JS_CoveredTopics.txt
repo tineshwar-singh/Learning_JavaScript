@@ -12,3 +12,4 @@ JavaScript Basics -
 --> JavaScript Math Object
 --> JavaScript Date & Time
 --> JavaScript Object
+--> JavaScript Object & Array Destructuring

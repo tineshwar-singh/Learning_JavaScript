@@ -11,3 +11,4 @@ JavaScript Basics -
 --> JavaScript Number Object
 --> JavaScript Math Object
 --> JavaScript Date & Time
+--> JavaScript Object

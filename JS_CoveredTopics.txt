@@ -14,3 +14,4 @@ JavaScript Basics -
 --> JavaScript Object
 --> JavaScript Object & Array Destructuring
 --> JavaScript Functions
+--> JavaScript Functions Global & Local Scope

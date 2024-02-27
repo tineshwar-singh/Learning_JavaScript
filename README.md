@@ -25,3 +25,4 @@ Have created [Learning_JavaScript](https://github.com/tineshwar-singh/Learning_J
 015. [015-JS_Date&Time.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/015-JS_Date&Time.js)
 016. [016-JS_Object.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/016-JS_Object.js)
 017. [017-JS_Object&ArrayDestructuring.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/017-JS_Object&ArrayDestructuring.js)
+018. [018-JS_Functions.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/018-JS_Functions.js)

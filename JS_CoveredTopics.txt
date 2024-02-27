@@ -13,3 +13,4 @@ JavaScript Basics -
 --> JavaScript Date & Time
 --> JavaScript Object
 --> JavaScript Object & Array Destructuring
+--> JavaScript Functions

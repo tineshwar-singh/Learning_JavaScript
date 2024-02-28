@@ -27,4 +27,4 @@ Have created [Learning_JavaScript](https://github.com/tineshwar-singh/Learning_J
 017. [017-JS_Object&ArrayDestructuring.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/017-JS_Object&ArrayDestructuring.js)
 018. [018-JS_Functions.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/018-JS_Functions.js)
 019. [019-JS_FunctionsScope.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/019-JS_FunctionsScope.js)
-020. [020-JS_FunctionsExpression.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/020-JS_FunctionsExpression.js)
+020. [020-JS_FunctionExpression.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/020-JS_FunctionExpression.js)

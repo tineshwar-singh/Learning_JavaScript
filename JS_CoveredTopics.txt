@@ -16,5 +16,3 @@ JavaScript Basics -
 --> JavaScript Functions
 --> JavaScript Functions Global & Local Scope
 --> JavaScript Function Expression
---> JavaScript Arrow Function
---> JavaScript IFFE Function

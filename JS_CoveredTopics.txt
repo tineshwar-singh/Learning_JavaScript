@@ -17,3 +17,4 @@ JavaScript Basics -
 --> JavaScript Functions Global & Local Scope
 --> JavaScript Function Expression
 --> JavaScript Arrow Function
+--> JavaScript Functions with "this" keyword

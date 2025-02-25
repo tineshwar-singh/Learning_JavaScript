@@ -6,8 +6,8 @@ JavaScript Basics -
 --> JavaScript Conversion
 --> JavaScript Operations
 --> JavaScript Stack & Heap Memory
---> JavaScript String
---> JavaScript Array
+--> JavaScript String & String Methods
+--> JavaScript Array & Array Methods
 --> JavaScript Number Object
 --> JavaScript Math Object
 --> JavaScript Date & Time
@@ -18,3 +18,4 @@ JavaScript Basics -
 --> JavaScript Function Expression
 --> JavaScript Arrow Function
 --> JavaScript Functions with "this" keyword
+--> JavaScript Immediately Invoked Function Expression (IIFE)

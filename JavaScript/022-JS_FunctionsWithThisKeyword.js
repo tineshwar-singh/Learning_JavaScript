@@ -14,6 +14,7 @@ const normalFunctionDetails = {
 
     greeting : function() {
         console.log(`${this.username}, welcome to the website`);
+        console.log(`Normal Function --> `, this);
     }
 }
 
@@ -30,6 +31,7 @@ const arrowFunctionDetails_One = {
 
     greeting : () => {
         console.log(`${this.username}, welcome to the website`);
+        console.log(`Arrow Function --> `, this);
     }
 }
 

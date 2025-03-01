@@ -21,3 +21,4 @@ JavaScript Basics -
 --> JavaScript Immediately Invoked Function Expression (IIFE)
 --> JavaScript Execution Context
 --> JavaScript Conditional Statement - if / if-else / if-elseif-else / switch case / truthy-falsy values
+--> JavaScript Nullish Coalescing Operator (??)

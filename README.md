@@ -33,3 +33,4 @@ Have created [Learning_JavaScript](https://github.com/tineshwar-singh/Learning_J
 023. [023-JS_IIFEFunction.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/023-JS_IIFEFunction.js)
 024. [024-JS_ExecutionContext.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/024-JS_ExecutionContext.js)
 025. [025-JS_ConditionalStatement.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/025-JS_ConditionalStatement.js)
+026. [026-JS_ConditionalStatement.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/026-JS_ConditionalStatement.js)

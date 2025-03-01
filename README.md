@@ -35,3 +35,4 @@ Have created [Learning_JavaScript](https://github.com/tineshwar-singh/Learning_J
 025. [025-JS_ConditionalStatement.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/025-JS_ConditionalStatement.js)
 026. [026-JS_NullishCoalescingOperator.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/026-JS_NullishCoalescingOperator.js)
 027. [027-JS_TernaryOperator.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/027-JS_TernaryOperator.js)
+028. [028-JS_ForLoop.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/028-JS_ForLoop.js)

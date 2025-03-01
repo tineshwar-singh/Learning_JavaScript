@@ -24,3 +24,4 @@ JavaScript Basics -
 --> JavaScript Nullish Coalescing Operator (??)
 --> JavaScript Ternary Operator
 --> JavaScript For Loop with "break" and "continue" keyword
+--> JavaScript While and Do-While Loop

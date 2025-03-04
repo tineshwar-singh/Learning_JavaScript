@@ -37,3 +37,4 @@ Have created [Learning_JavaScript](https://github.com/tineshwar-singh/Learning_J
 027. [027-JS_TernaryOperator.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/027-JS_TernaryOperator.js)
 028. [028-JS_ForLoop.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/028-JS_ForLoop.js)
 029. [029-JS_WhileAndDoWhileLoop.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/029-JS_WhileAndDoWhileLoop.js)
+030. [030-JS_ForOfLoop.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/030-JS_ForOfLoop.js)

@@ -25,3 +25,4 @@ JavaScript Basics -
 --> JavaScript Ternary Operator
 --> JavaScript For Loop with "break" and "continue" keyword
 --> JavaScript While and Do-While Loop
+--> JavaScript for-of Loop

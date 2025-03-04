@@ -27,3 +27,4 @@ JavaScript Basics -
 --> JavaScript While and Do-While Loop
 --> JavaScript for-of Loop
 --> JavaScript for-in Loop
+--> JavaScript forEach Loop

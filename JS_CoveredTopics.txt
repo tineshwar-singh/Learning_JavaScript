@@ -26,3 +26,4 @@ JavaScript Basics -
 --> JavaScript For Loop with "break" and "continue" keyword
 --> JavaScript While and Do-While Loop
 --> JavaScript for-of Loop
+--> JavaScript for-in Loop

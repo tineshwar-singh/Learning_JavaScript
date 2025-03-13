@@ -39,4 +39,4 @@ Have created [Learning_JavaScript](https://github.com/tineshwar-singh/Learning_J
 029. [029-JS_WhileAndDoWhileLoop.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/029-JS_WhileAndDoWhileLoop.js)
 030. [030-JS_ForOfLoop.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/030-JS_ForOfLoop.js)
 031. [031-JS_ForInLoop.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/031-JS_ForInLoop.js)
-032. [032-JS_ForEachLoop.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/032-JS_ForEachLoop.js)
+032. [032-JS_ForEachMethod.js](https://github.com/tineshwar-singh/Learning_JavaScript/blob/master/JavaScript/032-JS_ForEachMethod.js)
